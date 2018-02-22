@@ -1,10 +1,10 @@
-####Senin - Tantangan pertama di HACKTIV8 Phase 0
+#### Senin - Tantangan pertama di HACKTIV8 Phase 0
 
 Tugas :
 * :anchor: [Exercises 1] Codecademy Course - HTML
 * :muscle: [Latihan Pribadi 1] Membuat Halaman HTML Sederhana
 
-####Selasa - Tantangan Menguasai HTML dan Mengenal CSS Phase 0
+#### Selasa - Tantangan Menguasai HTML dan Mengenal CSS Phase 0
 
 Tugas :
 * :anchor: [Exercises 2] Codecademy Course - CSS (hanya sampai Unit 5 - Typography)
